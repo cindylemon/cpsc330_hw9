@@ -3,4 +3,6 @@
 *.csv
 *.ipynb_checkpoints
 *.zip
+*
 
+!hw8.ipynb
